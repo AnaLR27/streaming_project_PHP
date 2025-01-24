@@ -16,8 +16,8 @@ Para ejecutar este proyecto necesitarás un entorno con:
 
 El proyecto debe cumplir con los siguientes requisitos:
 
-1. Login
-2. Registro
+1. Crear un login
+2. Crear un registro
 3. Mostrar todos los videos
 4. Mostrar los detalles de cada video
 5. Editar los videos
@@ -55,3 +55,17 @@ El proyecto debe cumplir con los siguientes requisitos:
   - `compr_conexion.php`
 - **sql/**
   - `database.sql` → Script de la base de datos.
+- **images/** (Carpeta para almacenar imágenes del proyecto)
+  - `index_view.png` → Imagen de la página de inicio.
+  - `video_list.png` → Imagen del listado de videos.
+
+## Muestras visuales de la interfaz
+
+A continuación se presentan algunas imágenes de la interfaz del proyecto:
+
+- **Vista de la página de inicio:**
+  ![Vista de inicio](images/index_view.png)
+
+- **Listado de videos disponibles:**
+  ![Listado de videos](images/video_list.png)
+
